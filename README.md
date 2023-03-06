@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=realmcking&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=FFFFFF00&theme=dark">
